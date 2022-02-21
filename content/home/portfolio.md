@@ -28,12 +28,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Machine Learning
-    tag: ML
-  - name: Computer Vision
-    tag: CV
-  - name: NLP
-    tag: NLP
+  - name: Scotland Adventures
+    tag: Scotland
+  - name: UK Adventures
+    tag: UK
+  - name: Expedition 68
+    tag: E68
 
 design:
   columns: '1'

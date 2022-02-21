@@ -1,6 +1,6 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: The Van
+summary: Coming soon
 tags:
 - CV
 date: 2022-01-01
